@@ -1,0 +1,6 @@
+/Users/ash.singh/Desktop/truelayer/personal/c#basics/SalaryCalculatorTestProject/Calculator/bin/Debug/Calculator.dll
+/Users/ash.singh/Desktop/truelayer/personal/c#basics/SalaryCalculatorTestProject/Calculator/bin/Debug/Calculator.pdb
+/Users/ash.singh/Desktop/truelayer/personal/c#basics/SalaryCalculatorTestProject/Calculator/obj/Debug/Calculator.csproj.AssemblyReference.cache
+/Users/ash.singh/Desktop/truelayer/personal/c#basics/SalaryCalculatorTestProject/Calculator/obj/Debug/Calculator.csproj.CoreCompileInputs.cache
+/Users/ash.singh/Desktop/truelayer/personal/c#basics/SalaryCalculatorTestProject/Calculator/obj/Debug/Calculator.dll
+/Users/ash.singh/Desktop/truelayer/personal/c#basics/SalaryCalculatorTestProject/Calculator/obj/Debug/Calculator.pdb

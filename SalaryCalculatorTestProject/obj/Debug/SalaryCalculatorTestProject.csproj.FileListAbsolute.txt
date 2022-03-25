@@ -1,0 +1,11 @@
+/Users/ash.singh/Desktop/truelayer/personal/c#basics/SalaryCalculatorTestProject/SalaryCalculatorTestProject/obj/Debug/SalaryCalculatorTestProject.csproj.AssemblyReference.cache
+/Users/ash.singh/Desktop/truelayer/personal/c#basics/SalaryCalculatorTestProject/SalaryCalculatorTestProject/obj/Debug/SalaryCalculatorTestProject.csproj.CoreCompileInputs.cache
+/Users/ash.singh/Desktop/truelayer/personal/c#basics/SalaryCalculatorTestProject/SalaryCalculatorTestProject/bin/Debug/SalaryCalculatorTestProject.dll
+/Users/ash.singh/Desktop/truelayer/personal/c#basics/SalaryCalculatorTestProject/SalaryCalculatorTestProject/bin/Debug/SalaryCalculatorTestProject.pdb
+/Users/ash.singh/Desktop/truelayer/personal/c#basics/SalaryCalculatorTestProject/SalaryCalculatorTestProject/bin/Debug/Calculator.dll
+/Users/ash.singh/Desktop/truelayer/personal/c#basics/SalaryCalculatorTestProject/SalaryCalculatorTestProject/bin/Debug/nunit.framework.dll
+/Users/ash.singh/Desktop/truelayer/personal/c#basics/SalaryCalculatorTestProject/SalaryCalculatorTestProject/bin/Debug/Calculator.pdb
+/Users/ash.singh/Desktop/truelayer/personal/c#basics/SalaryCalculatorTestProject/SalaryCalculatorTestProject/bin/Debug/nunit.framework.xml
+/Users/ash.singh/Desktop/truelayer/personal/c#basics/SalaryCalculatorTestProject/SalaryCalculatorTestProject/obj/Debug/SalaryCalculatorTestProject.csproj.CopyComplete
+/Users/ash.singh/Desktop/truelayer/personal/c#basics/SalaryCalculatorTestProject/SalaryCalculatorTestProject/obj/Debug/SalaryCalculatorTestProject.dll
+/Users/ash.singh/Desktop/truelayer/personal/c#basics/SalaryCalculatorTestProject/SalaryCalculatorTestProject/obj/Debug/SalaryCalculatorTestProject.pdb
